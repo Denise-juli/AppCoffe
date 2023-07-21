@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AppCoffe</string>
+    <string name="CAFE">CAFETERIA</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="Login">Login</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="SinUp">Registrar</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="confPass">Confirmar Password</string>
+    <string name="nombre">Nombre</string>
+    <string name="registro">Registrarse</string>
+    <string name="Hola">Hola</string>
+    <string name="editarPerfil">Editar Perfil</string>
+    <string name="abmCafe">ABM Cafeteria</string>
+    <string name="Mapa">MAPA</string>
+    <string name="eliminarUsuario">Eliminar Usuario</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="Edicion">Edicion</string>
+    <string name="telefono">Telefono</string>
+    <string name="Dueno">Dueño</string>
+    <string name="direccion">Direccion</string>
+    <string name="btnActualizar">Actualizar</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="Locales">Locales</string>
+    <string name="tituloDueno">Dueño: </string>
+    <string name="tituloTelefono">Telefono: </string>
+    <string name="tituloDireccion">Direccion: </string>
+    <string name="btnVerificar">Verificar</string>
+
+
+</resources>
